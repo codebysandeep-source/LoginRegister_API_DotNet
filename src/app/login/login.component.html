@@ -1,0 +1,15 @@
+<h2 class="">Login</h2>
+<div class="shadow-sm">
+<form #myForm="ngForm" class="form-control">
+  <p *ngIf="error_msg" class="alert alert-danger badge p-3 border w-100 rounded-0">{{ error_msg }}</p>
+  <div class="m-2">
+    <label for="username">Username:</label>
+    <input type="text" class="form-control" id="username" name="username" ngModel>
+  </div>
+  <div class="m-2">
+    <label for="password">Password:</label>
+    <input type="password" class="form-control" id="password" name="password" ngModel>
+  </div>
+  <button class="btn btn-primary shadow-sm m-2" (click)="login()" >Login</button>
+</form>
+</div>  
