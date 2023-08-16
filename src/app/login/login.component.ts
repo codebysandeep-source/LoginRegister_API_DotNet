@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 import { AuthService } from '../auth.service';
 import { Router } from '@angular/router';
-import { FormGroup } from '@angular/forms';
+
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
@@ -16,7 +16,7 @@ export class LoginComponent{
 
   login(){
     let username = this.myform.value.username;
-    let password = this.myform.value.password;
+    let password = this.myform.value.password;  
     
     if(this.authService.login(username,password)){
       this.router.navigate(['home']);
@@ -28,5 +28,4 @@ export class LoginComponent{
   }
   
     
-
 }

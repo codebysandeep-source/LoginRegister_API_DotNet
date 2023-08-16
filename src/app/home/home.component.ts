@@ -12,10 +12,6 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  logout() : void{
-    //clear or remove set item from local storage
-    localStorage.removeItem('isLoggedIn');
-    this.router.navigate(['']);
-  }
+
 
 }
