@@ -1,0 +1,10 @@
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\sande\Desktop\JWT\JWT_WebAPI\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
